@@ -1,0 +1,233 @@
+.d-flex{
+    margin-left: 1200px;
+}
+
+
+.navbar-brand{
+    color:black;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.navbar{
+    background-color:white;
+   
+}
+.nav-link{
+    font-family: inherit;
+    color:black;
+    font-size: 17px;
+ 
+}
+
+.carousel-item {
+   color: white;
+    
+}
+.carousel-item img{
+    opacity: 0.6;
+}
+.carousel-inner{
+    color: white;
+    background-color: rgb(12, 4, 4);
+}
+
+
+
+
+.rsm h1{
+    left: 550px;
+    color:white;
+    position: absolute;
+    top: 400px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+.rsm p{
+    left: 750px;
+    color:white;
+    position: absolute;
+    top: 525px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+.btn{
+    border-color:black;
+    color:white;
+    font-size: 20px;
+    background-color:#2d5fab;
+}
+.title-box{
+    text-align: center;
+    font-size: 60px;
+}
+.rez{
+    margin-left: 850px;
+    float: left;
+}
+
+.imgg{
+width: 300px;
+height: 300px;
+float: left;
+margin-left: -1000px;
+margin-top: 200px;
+}
+.sag{height: 200;
+width: 200;
+}
+.sol{
+    height: 200;
+    width: 200;
+
+}
+
+
+.yaz{
+   margin-top:100px;
+    width: 300px;
+    margin-left: -70px;
+    
+}
+.yaz2{
+    margin-top:100px;
+     width: 300px;
+     margin-left: -70px;
+     
+ }
+ .card-img-top:hover{
+     opacity: 0.7;
+ }
+
+    .img1{
+        width: 300px;
+        height: 300px;
+        float: left;
+        margin-left: -150px;
+        margin-top: 137px; 
+    }
+    .oda{
+        text-align: center;
+        margin-top: 500px;
+    }
+    
+    .galeri{
+        text-align: center;
+        margin-top: 500px;
+    }
+    .card{
+        float: left;
+        margin-left: 50px;
+        margin-top: 200px;
+        width: 250px;
+    }
+    .kart{
+        float: left;
+        width: 100px;
+    }
+    .containerr{
+        background-color:black;
+        width: auto;
+        height:400px;
+        margin-top:200px;
+    }
+   .hakkimizda{
+       height: 300px;
+       opacity: 0.9;
+       background-color: rgb(12, 4, 4);
+    }
+   .hakkimizda h3{
+       text-align: center;
+       font-size: 45px;
+       font-family: 'Playfair display',serif;
+       color:white;
+       padding-top: 80px;
+   }
+   .hakkimizda li{
+       float: left;
+       text-decoration: none;
+       margin-left: 30px;
+       list-style: none;
+       font-size: 18px;  
+   }
+   .hakkimizdaa{
+       height: 500px;
+   }
+  .hakkimizdaa h3{
+      text-align: center;
+      font-family: 'Playfair display',serif;
+      font-size: 45px;
+      padding-top: 120px;
+      color: #fea116;
+  }
+  .hakkimizdaa p{
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+      font-size: 17px;
+      padding-top: 40px;
+      color: #666565;
+  }
+  .col1{
+      padding-top: 300px;
+      width: 450px;
+  }
+  .col2{
+      float: left;
+      padding-top: 300px;
+      padding-left: 60px;
+  }
+  .gezmek{
+    height: 300px;
+    opacity: 0.9;
+    background-color: rgb(12, 4, 4);
+ }
+.gezmek h3{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Playfair display',serif;
+    color:white;
+    padding-top: 80px;
+}
+.gezmek li{
+    float: left;
+    text-decoration: none;
+    margin-left: 30px;
+    list-style: none;
+    font-size: 18px;  
+}
+.gezi{
+    height: 400px;
+}
+.gezi h3{
+   text-align: center;
+   font-family: 'Playfair display',serif;
+   font-size: 45px;
+   padding-top: 120px;
+   color: #fea116;
+}
+.gezi p{
+   text-align: center;
+   font-family: 'Raleway', sans-serif;
+   font-size: 17px;
+   padding-top: 40px;
+   color: #666565;
+}
+.col1{
+   padding-top: 300px;
+   width: 450px;
+}
+.col2{
+   float: left;
+   padding-top: 300px;
+   padding-left: 60px;
+}
+.galer{
+    float: left;
+}
+.coll{
+    float: left;
+}
+.coll:hover{
+    opacity: 0.6;
+}
